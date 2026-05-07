@@ -33,8 +33,8 @@ Create your API key from:
 https://openrouter.ai/keys
 
 
-▶️ Run the App
-streamlit run app.py
+▶️ Run the App<br>
+streamlit run app.py<br>
 
 Then open:
 http://localhost:8501
@@ -45,18 +45,18 @@ Enter your message in the input box
 Chatbot responds instantly
 It remembers previous conversation
 
-Example:
+Example:<br>
 You: What is AI? <br>
 Bot: Artificial Intelligence (AI) refers to the simulation of human intelligence in machines...
 
 🧠 How It Works
-Stores chat in session memory
-Sends conversation history to OpenRouter API
-Receives AI-generated response
-Updates memory for continuous conversation
+1. Stores chat in session memory
+2. Sends conversation history to OpenRouter API
+3. Receives AI-generated response
+4. Updates memory for continuous conversation
 
 🔒 Security Note
-⚠️ Do NOT expose your API key
+Do NOT expose your API key
 Never hardcode API key in code
 Use environment variables
 Keep your key private

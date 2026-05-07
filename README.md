@@ -44,7 +44,7 @@ It remembers previous conversation
 Example:<br>
 You: What is AI? <br>
 Bot: Artificial Intelligence (AI) refers to the simulation of human intelligence in machines...
-![Uploading image.png…]()
+
 
 
 🧠 How It Works

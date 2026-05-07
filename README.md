@@ -6,12 +6,12 @@ and maintains conversation history for better interaction.
 
 🚀 Features
 
-💬 Real-time chat interface (ChatGPT-like UI)
-🧠 Remembers previous conversation (context-aware)
-🤖 AI-powered responses using OpenRouter
-⚡ Fast and responsive
-🔐 Secure API key handling
-🖥️ Simple and easy to run
+1. 💬 Real-time chat interface (ChatGPT-like UI)
+2. 🧠 Remembers previous conversation (context-aware)
+3. 🤖 AI-powered responses using OpenRouter
+4. ⚡ Fast and responsive
+5. 🔐 Secure API key handling
+6. 🖥️ Simple and easy to run
 
 🛠️ Tech Stack
 1. Python

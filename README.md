@@ -46,7 +46,7 @@ Chatbot responds instantly
 It remembers previous conversation
 
 Example:
-You: What is AI?
+You: What is AI? <br>
 Bot: Artificial Intelligence (AI) refers to the simulation of human intelligence in machines...
 
 🧠 How It Works

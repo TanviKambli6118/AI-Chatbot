@@ -5,6 +5,7 @@ This chatbot uses OpenRouter API to generate intelligent responses
 and maintains conversation history for better interaction.
 
 🚀 Features
+
 💬 Real-time chat interface (ChatGPT-like UI)
 🧠 Remembers previous conversation (context-aware)
 🤖 AI-powered responses using OpenRouter
@@ -13,10 +14,10 @@ and maintains conversation history for better interaction.
 🖥️ Simple and easy to run
 
 🛠️ Tech Stack
-Python
-Streamlit
-OpenRouter API
-OpenAI-compatible SDK
+1. Python
+2. Streamlit
+3. OpenRouter API
+4. OpenAI-compatible SDK
 
 📂 Project Structure
 AI-Chatbot/

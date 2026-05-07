@@ -4,8 +4,8 @@ A context-aware AI chatbot built using Python and Streamlit.
 This chatbot uses OpenRouter API to generate intelligent responses
 and maintains conversation history for better interaction.
 
-🚀 Features
 
+🚀 Features
 1. 💬 Real-time chat interface (ChatGPT-like UI)
 2. 🧠 Remembers previous conversation (context-aware)
 3. 🤖 AI-powered responses using OpenRouter
@@ -13,16 +13,12 @@ and maintains conversation history for better interaction.
 5. 🔐 Secure API key handling
 6. 🖥️ Simple and easy to run
 
+
 🛠️ Tech Stack
 1. Python
 2. Streamlit
 3. OpenRouter API
 4. OpenAI-compatible SDK
-
-📂 Project Structure
-AI-Chatbot/
-│── app.py
-│── README.md
 
 ⚙️ Setup
 1. Install dependencies

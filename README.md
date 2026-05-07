@@ -39,7 +39,7 @@ streamlit run app.py<br>
 Then open:
 http://localhost:8501
 
-
+<br>
 💻 Usage
 Enter your message in the input box
 Chatbot responds instantly
@@ -56,10 +56,9 @@ Bot: Artificial Intelligence (AI) refers to the simulation of human intelligence
 4. Updates memory for continuous conversation
 
 🔒 Security Note
-Do NOT expose your API key
-Never hardcode API key in code
-Use environment variables
-Keep your key private
+1. Do NOT expose your API key
+2. Never hardcode API key in code
+3. Keep your key private
 
 📌 Code Example
 from openai import OpenAI
@@ -71,11 +70,11 @@ client = OpenAI(
 )
 
 
-📈 Future Improvements
-🌐 Deploy online
-🎨 Improve UI design
-💾 Save chat history
-🎤 Add voice features
+📈 Future Improvements:
+1. 🌐 Deploy online
+2. 🎨 Improve UI design
+3. 💾 Save chat history
+4. 🎤 Add voice features
 
 
 👩‍💻 Author
